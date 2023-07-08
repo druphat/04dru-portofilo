@@ -631,18 +631,18 @@ span{
       background-size: cover;
     }
 }
-/*
+
 @media (max-width: 600px) {
     
     #homes{
         background-image: url('images/136-1369543_laptop-coding.jpg') repeat-x;
-        /*
+
        
     background-repeat: no-repeat;
     
     }
 }
-*/
+
 @keyframes floatImage{
     0%{
         transform:translateY(0);
