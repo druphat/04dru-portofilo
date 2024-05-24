@@ -193,7 +193,8 @@ section{
     background:#323946;
 }
 .about-img img{
-    width:35vw;
+    width:300px;
+    border-radius: 50%;
 }
 .heading{
     text-align: center;
